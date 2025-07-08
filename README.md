@@ -74,6 +74,10 @@ https://www.youtube.com/@ArtemKirsanov
 
 https://www.youtube.com/@statquest
 
+https://www.youtube.com/@fodoai
+
+https://www.youtube.com/@geohotarchive
+
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo (for probability and statistics)
 
 https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D (for linear algebra)
