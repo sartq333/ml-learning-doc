@@ -16,6 +16,7 @@ learn git from here: https://www.youtube.com/watch?v=mJ-qvsxPHpY
 
 - download the python version: https://www.statlearning.com/
 - https://d2l.ai/
+- this [book](https://drive.google.com/file/d/1tb2-tkoeO8Hcr34y_ABDAe2MyCOdW6oB/view?usp=sharing) by [nitin mukesh](https://www.linkedin.com/in/nitinmukeshiitb) for data science prep.
 - books of packt, manning publications are also great
 
 - This document was quite helpful if you don’t prefer learning by books but still want to learn in structured manner: [Mech - ML community resource list.pdf](https://drive.google.com/file/d/1uG3kMT51sEfZZAUatOvna_1uieaaK15z/view?usp=sharing), [ML RESOUCES-20250624T145356Z-1-001.zip](https://drive.google.com/file/d/1ROdHTGgtuvN_igUWmqr8LUoZ-NNF-8BD/view?usp=sharing) 
