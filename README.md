@@ -24,7 +24,7 @@ learn git from here: https://www.youtube.com/watch?v=mJ-qvsxPHpY
 
 - Start writing about whatever you learn on websites like medium.com 
 
-Interesting and useful read: 
+### Interesting and useful read: 
 
 https://github.com/ayush-agarwal-0502/Placement-guidance-juniors/tree/main
 
@@ -41,7 +41,7 @@ DSA: Also practice regularly some questions (in python) related to arrays, strin
 [cses problemest](https://cses.fi/problemset/)
 
 
-Very good place to search about project ideas or learn: 
+### Very good place to search about project ideas or learn: 
 
 [Hugging Face – Blog](https://huggingface.co/blog)
 
