@@ -84,3 +84,7 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo (for pr
 https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D (for linear algebra)
 
 https://www.youtube.com/@FerdinandMom (for learning distributed training)
+
+https://www.youtube.com/watch?v=X2b_BD_LgwU
+
+https://www.youtube.com/@3blue1brown
