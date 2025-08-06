@@ -10,7 +10,7 @@ This document would contain whatever advice/resources I’ve found useful in my 
 
 - Try out competitions of Kaggle (one at a time), learn and collaborate with other people :).
 
-learn git from here: https://www.youtube.com/watch?v=mJ-qvsxPHpY
+- Learn git from here: https://www.youtube.com/watch?v=mJ-qvsxPHpY
 
 ### books 
 
@@ -26,28 +26,30 @@ learn git from here: https://www.youtube.com/watch?v=mJ-qvsxPHpY
 
 ### Interesting and useful read: 
 
-https://github.com/ayush-agarwal-0502/Placement-guidance-juniors/tree/main
+- https://github.com/ayush-agarwal-0502/Placement-guidance-juniors/tree/main
 
-https://github.com/ayush-agarwal-0502/Placement-guidance-juniors/blob/main/ML%20Data%20Science%20syllabus.md
+- https://github.com/ayush-agarwal-0502/Placement-guidance-juniors/blob/main/ML%20Data%20Science%20syllabus.md
+
+- zomato ds interview experience: https://freedium.cfd/https://medium.com/@AaryanAhuja11/zomato-on-site-job-interview-for-data-scientist-f1d50adef05f
 
 ### dsa
 
-DSA: Also practice regularly some questions (in python) related to arrays, string, greedy, dp from leetcode.com and also SQL. Learn about DSA from these 2 guys:
+- DSA: Also practice regularly some questions (in python) related to arrays, string, greedy, dp from leetcode.com and also SQL. Learn about DSA from these 2 guys:
 
-[striver](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- [striver](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
-[codestorywith mik](https://www.youtube.com/@codestorywithMIK)
+- [codestorywith mik](https://www.youtube.com/@codestorywithMIK)
 
-[cses problemest](https://cses.fi/problemset/)
+- [cses problemest](https://cses.fi/problemset/)
 
 
 ### Very good place to search about project ideas or learn: 
 
-[Hugging Face – Blog](https://huggingface.co/blog)
+- [Hugging Face – Blog](https://huggingface.co/blog)
 
-[Fast.ai](https://www.fast.ai/)
+- [Fast.ai](https://www.fast.ai/)
 
-[contributing a model to hugging face](https://docs.google.com/document/d/17klnzZYQ6SAgQodQXQJMDoM0Popq-MuvpVvsW2EsHOI/edit?usp=sharing)
+- [contributing a model to hugging face](https://docs.google.com/document/d/17klnzZYQ6SAgQodQXQJMDoM0Popq-MuvpVvsW2EsHOI/edit?usp=sharing)
 
 ### websites to refer to know about latest research papers/trends (ignore if you’re just starting in the ML domain, they might be overwhelming):
 
@@ -57,7 +59,7 @@ DSA: Also practice regularly some questions (in python) related to arrays, strin
 
 ### youtube channels/playlists
 
-sentdex - pythonprogramming.net (python and general ML)
+[sentdex](https://www.youtube.com/@sentdex) - [pythonprogramming.net](https://pythonprogramming.net/) (python and general ML)
 
 https://www.youtube.com/@coreyms (best place to learn stuff related to python)
 
