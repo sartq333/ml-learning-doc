@@ -1,6 +1,6 @@
 ### ml-learning-doc
 
-This document would contain whatever advice/resources I’ve found useful in my ML journey:
+This document would contain whatever advice/resources I’ve found useful in my ML journey (note that these are a lot of resources, which might feel overwhelming, even I haven't covered all of these things, so its fine):
 
 ### Some really good advice:
 
@@ -91,3 +91,5 @@ https://www.youtube.com/@FerdinandMom (for learning distributed training)
 https://www.youtube.com/watch?v=X2b_BD_LgwU
 
 https://www.youtube.com/@3blue1brown
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU (ML deep dive course by stanford)
