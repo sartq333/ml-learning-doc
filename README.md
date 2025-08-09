@@ -2,7 +2,7 @@
 
 This document would contain whatever advice/resources I’ve found useful in my ML journey. 
 
-note that these are a lot of resources, which might feel overwhelming, even I haven't covered all of these things, so its fine, also you don't need these much resouces just search on youtube whatever topic you want to learn or not able to understand, watch the video on that topic, ask whatever doubts you've from chatgpt/sonnet. yes, use ai to learn about ai (recursion hehe).
+note that these are a lot of resources, which might feel overwhelming, even I haven't covered all of these things, so its fine, also you don't need these much resouces just search on youtube whatever topic you want to learn or not able to understand, watch the video on that topic, ask whatever doubts you've from chatgpt/sonnet. yes, use ai to learn about ai (recursion hehe). also learn and implement stuff - don't just keep learning, because implementation should also be done (in did this mistake in the starting, just learned and didn't applied much - in short how one can be sure that he knows things if he has just consumed stuff and not created anything, right?, not saying that create another sota model, but just start implementing whatever you can)
 
 ### Some really good advice:
 
