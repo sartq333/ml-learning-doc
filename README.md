@@ -20,7 +20,7 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 - https://d2l.ai/ (to learn DL)
 - this [book](https://drive.google.com/file/d/1tb2-tkoeO8Hcr34y_ABDAe2MyCOdW6oB/view?usp=sharing) by [nitin mukesh](https://www.linkedin.com/in/nitinmukeshiitb) for data science prep (interview prep guide).
 - [class notes of statistics and probability](https://drive.google.com/file/d/14PJg_68luGKZ7pTWKLiayrMFqmZ1GGEc/view?usp=sharing) by professor amit kumar (note: there are some errors in this, so please be careful if you're reading or learning from this).
-- books of packt, manning publications are also great (like sebestian's llm from scratch is pure goldmine, or modern computer vision with pytorch by pacckt publications).
+- books of packt, manning publications are also great (like sebestian's llm from scratch is pure goldmine, or modern computer vision with pytorch by packt publications).
 
 - This document was quite helpful if you don’t prefer learning by books but still want to learn in structured manner: [Mech - ML community resource list.pdf](https://drive.google.com/file/d/1uG3kMT51sEfZZAUatOvna_1uieaaK15z/view?usp=sharing), [ML RESOUCES-20250624T145356Z-1-001.zip](https://drive.google.com/file/d/1ROdHTGgtuvN_igUWmqr8LUoZ-NNF-8BD/view?usp=sharing) 
 (credits: [Mitanshu](https://www.linkedin.com/in/mitanshu-chakrawarty-a312081b4))
@@ -53,6 +53,8 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 - [Fast.ai](https://www.fast.ai/)
 
 - [contributing a model to hugging face](https://docs.google.com/document/d/17klnzZYQ6SAgQodQXQJMDoM0Popq-MuvpVvsW2EsHOI/edit?usp=sharing)
+
+- [implement papers](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)
 
 ### websites to refer to know about latest research papers/trends (ignore if you’re just starting in the ML domain, they might be overwhelming):
 
@@ -96,7 +98,7 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - https://www.youtube.com/@AndrejKarpathy
 
-- https://www.youtube.com/@geohotarchive (if you like programming/computer - you'll enojy watching this channel)
+- https://www.youtube.com/@geohotarchive (if you like programming/computer - you'll enjoy watching this channel)
 
 - https://www.youtube.com/@FerdinandMom (for learning distributed training)
 
