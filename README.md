@@ -84,6 +84,8 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D (for linear algebra)
 
+- https://www.youtube.com/@YannicKilcher (ml papers explanation)
+
 - https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU (ML deep dive course by stanford, if you've already done 100 days of ml from campus x, that is enough, but if you want to learn more you can check out this playlist)
 
 # channels to learn practical stuff/implementation: 
