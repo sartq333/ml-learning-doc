@@ -10,6 +10,8 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - https://x.com/daddynohara/status/1864513697424789574
 
+- https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
+
 - Try out competitions of Kaggle (one at a time), learn and collaborate with other people :).
 
 - Learn git from here: https://www.youtube.com/watch?v=mJ-qvsxPHpY
