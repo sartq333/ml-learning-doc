@@ -2,7 +2,7 @@
 
 This document would contain whatever advice/resources I’ve found useful in my ML journey. 
 
-note that these are a lot of resources, which might feel overwhelming, even I haven't covered all of these things, so its fine, also you don't need these much resouces just search on youtube whatever topic you want to learn or not able to understand, watch the video on that topic, ask whatever doubts you've from chatgpt/sonnet. yes, use ai to learn about ai (recursion hehe). also learn and implement stuff - don't just keep learning, because implementation should also be done (i did this mistake in the starting, just learned and didn't applied much - but i realised this: how one can be sure that he knows things if he has just consumed stuff and not created anything, right?, not saying that create another sota model, but just start implementing whatever you can).
+note that these are a lot of resources, which might feel overwhelming, even I haven't covered all of these things, so its fine, also you don't need these many resouces to learn, just search on youtube whatever topic you want to learn or are not able to understand, watch the video on that topic, ask whatever doubts you've from chatgpt/sonnet. yes, use ai to learn about ai (recursion hehe). also learn and implement stuff - don't just keep learning, because implementation should also be done (i did this mistake in the starting, just learned and didn't applied much - but i realised this: how one can be sure that he knows things if he has just consumed stuff and not created anything, right?, not saying that create another sota model, but just start implementing whatever you can).
 
 ### Some really good advice:
 
@@ -26,6 +26,8 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - This document was quite helpful if you don’t prefer learning by books but still want to learn in structured manner: [Mech - ML community resource list.pdf](https://drive.google.com/file/d/1uG3kMT51sEfZZAUatOvna_1uieaaK15z/view?usp=sharing), [ML RESOUCES-20250624T145356Z-1-001.zip](https://drive.google.com/file/d/1ROdHTGgtuvN_igUWmqr8LUoZ-NNF-8BD/view?usp=sharing) 
 (credits: [Mitanshu](https://www.linkedin.com/in/mitanshu-chakrawarty-a312081b4))
+
+- You can also refer from my [notes](https://drive.google.com/drive/folders/11khFurA3lxPuSJ4Bp5EmmiPVTrsL7Gqg?usp=sharing) (if you're able to understand my handwriting :)).
 
 - Start writing about whatever you learn on websites like medium.com, because when you'll write down stuff, you'll realize that there are some gaps in your learning, and while pouring down your thoughts/understanding of concepts somewhere you'll try to fill those - and also other people might learn something useful from your writings, please note that don't write just for the sake of writing - or copy paste from chatgpt, write your *original/raw* thoughts!
 
