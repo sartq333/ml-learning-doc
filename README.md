@@ -62,6 +62,10 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - [implement papers](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)
 
+- https://www.aleksagordic.com/blog
+
+- https://magazine.sebastianraschka.com/
+
 ### websites to refer to know about latest research papers/trends (ignore if you’re just starting in the ML domain, they might be overwhelming):
 
 - [papers with code](https://paperswithcode.com/)
