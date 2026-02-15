@@ -119,3 +119,5 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 - https://www.youtube.com/watch?v=V8r__fXx7tU
 
 - https://www.youtube.com/@Explaining-AI (very nice channel, covers stuff realted to CV indepth)
+
+- https://www.youtube.com/@GPUMODE
