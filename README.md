@@ -72,6 +72,8 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - [hugging face daily papers](https://huggingface.co/papers)
 
+- sadly papers with code is not maintained now and i don't like huggingface papers much, here's an alternative: [alphaxiv](https://www.alphaxiv.org/)
+
 ### youtube channels/playlists
 
 # channels to learn theoritical stuff: 
