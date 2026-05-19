@@ -12,7 +12,9 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
 
-- https://x.com/basvanopheusden/status/1955520236670816272
+- https://docs.google.com/document/d/e/2PACX-1vTG_14sE1SLYHCcjDmh8X3yFFIdlqTpo37MlJ-Tba_pHWDr5xgU4EAzC2tIxFEsKi2qLlhB1ssoBhFn/pub
+
+- https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html
 
 - Try out competitions of Kaggle (one at a time), learn and collaborate with other people :).
 
