@@ -10,6 +10,8 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - https://x.com/daddynohara/status/1864513697424789574
 
+- https://x.com/agupta/status/2066912029839864116
+
 - https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
 
 - https://docs.google.com/document/d/e/2PACX-1vTG_14sE1SLYHCcjDmh8X3yFFIdlqTpo37MlJ-Tba_pHWDr5xgU4EAzC2tIxFEsKi2qLlhB1ssoBhFn/pub
@@ -125,3 +127,5 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 - https://www.youtube.com/@Explaining-AI (very nice channel, covers stuff realted to CV indepth)
 
 - https://www.youtube.com/@GPUMODE
+
+- https://www.youtube.com/@jbhuang0604
