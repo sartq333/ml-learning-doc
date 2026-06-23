@@ -18,6 +18,8 @@ note that these are a lot of resources, which might feel overwhelming, even I ha
 
 - https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html
 
+- https://alisawuffles.github.io/blog/job-search/
+
 - Try out competitions of Kaggle (one at a time), learn and collaborate with other people :).
 
 - Learn git from here: https://www.youtube.com/watch?v=mJ-qvsxPHpY
